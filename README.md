@@ -2,7 +2,8 @@
 - vim README.md
 - git add README.md
 - git commit -m "commit inicial"
-- git push -u origin master
+- git push -u origin master 
+
 | NOMBRE | GITHUB |
 | ------ | ------ |
 | Sergio Manzano | sergiomanzano |
