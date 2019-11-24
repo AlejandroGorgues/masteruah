@@ -6,8 +6,8 @@
 
 | NOMBRE | GITHUB |
 | ------ | ------ |
-| Sergio Manzano | sergiomanzano |
-| Marta Carricarte | mcarricarte|
-| Miguel Jiménez | MiguelJG |
-| Jaime | Jaime95 |
-| Zeng Yong | zengyong96 |
+| Sergio Manzano | [sergiomanzano](https://github.com/sergiomanzano) |
+| Marta Carricarte | [mcarricarte](https://github.com/mcarricarte) |
+| Miguel Jiménez | [MiguelJG](https://github.com/MiguelJG) |
+| Jaime | [Jaime95](https://github.com/Jaime95) |
+| Zeng Yong | [zengyong96](https://github.com/zengyong96) |
